@@ -3,7 +3,7 @@
 This repository contains a minimal example demonstrating how to use the **Server-Sent Events (SSE)** feature from **deadlock-api** for LIVE MATCHES.
 
 **Note:** This will not be maintained or updated. If you encounter issues, your best bet is to join the **deadlock-api Discord** and **nicely** ask for help.
-[![Example](https://i.imgur.com/YoAnhab.gif)]([https://i.imgur.com/6z2UdFd.mp4](https://i.imgur.com/YoAnhab.gif))
+[![Example](https://i.imgur.com/9c9VeUD.gif)](https://i.imgur.com/9c9VeUD.gif)
 
 
 ---
