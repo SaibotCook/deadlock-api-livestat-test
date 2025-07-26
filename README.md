@@ -50,3 +50,7 @@ If you're feeling fancy, consider making this dynamic (e.g. via CLI args or envi
 ```bash
 node server.js
 ```
+By default the page should be available at
+```bash
+http://localhost:3000
+```
