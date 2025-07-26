@@ -10,7 +10,8 @@ const server = createServer(app);
 const io = new SocketIO(server);
 
 const PORT = 3000;
-const sseUrl = 'http://api.deadlock-api.com/v1/matches/38202236/live/demo/events';
+const matchId = '38227403';
+const sseUrl = `http://api.deadlock-api.com/v1/matches/${matchId}/live/demo/events`;
 let heroMap = {};
 let cachedData = {
   assists: {},
