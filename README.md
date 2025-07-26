@@ -32,8 +32,18 @@ const es = new EventSource(sseUrl, {
   }
 });
 ```
+3. **Set the Match ID**
 
-3. **Run the Example**
+Before running the script, **edit the `matchId` variable** in `server.js` to any active match you want to stalk.
+
+```js
+const matchId = '38227403';
+const sseUrl = `http://api.deadlock-api.com/v1/matches/${matchId}/live/demo/events`;
+```
+
+If you're feeling fancy, consider making this dynamic (e.g. via CLI args or environment variable/whatever).
+
+4. **Run the Example**
 
 ```bash
 node server.js
