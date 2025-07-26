@@ -56,5 +56,5 @@ http://localhost:3000
 ```
 **Note:**  
 As of **July 26, 2025**, the `deadlock-api` enforces a rate limit of **10 connections per IP per hour** for users **without an API key**.  
-To obtain an API key, join the [official Discord server](#) and request one there.
+To obtain an API key, join the [official Discord server](https://deadlock-api.com/) and request one there.
 
